@@ -40,21 +40,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a3e1159ace009d9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creditos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creditos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creditos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Creditos.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -181,7 +165,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a3e1159ace009d9e",
+  "active": "32ae5269a62e85a6",
   "lastOpenFiles": [
     "1.Notas Técnicas en IA utilizando Obsidian/Crear un repositorio y Obsidian.md",
     "Creditos.md",
