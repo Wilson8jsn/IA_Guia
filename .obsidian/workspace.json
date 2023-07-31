@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3e1159ace009d9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creditos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Notas Técnicas en IA utilizando Obsidian/Crear un repositorio y Obsidian.md",
+                "file": "Creditos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Notas Técnicas en IA utilizando Obsidian/Crear un repositorio y Obsidian.md",
+                "file": "Creditos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Notas Técnicas en IA utilizando Obsidian/Crear un repositorio y Obsidian.md"
+                "file": "Creditos.md"
               }
             }
           }
@@ -169,14 +181,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7b3529116e858d07",
+  "active": "a3e1159ace009d9e",
   "lastOpenFiles": [
     "1.Notas Técnicas en IA utilizando Obsidian/Crear un repositorio y Obsidian.md",
-    "1.Notas Técnicas en IA utilizando Obsidian/Crear un repositorio y Obsidian.md",
+    "Creditos.md",
     "6.Consumo de API usando Nestis y Postman/API.md",
     "5.Práctica con Teachable Machine y Javascript/Práctica con Teachable Machine y Javascript (snake game).md",
     "7.ChatGPT API con Javascript/API JS.md",
-    "Untitled.md",
     "4.Práctica en Kaggle/Práctica en Kaggle Titanic Machine Learning fromDisastep.md",
     "3.Python/PYTHON.md",
     "2.Introducción teórica a IA/05. Investigación Nativos digitales.md",
